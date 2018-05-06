@@ -220,13 +220,13 @@ export PATH=$PATH:$GOROOT/bin
 # git
 
 * 设置用户名和邮箱
-git config --global user.name "hdebiao"
-git config --global user.email "2504882007@qq.com"
+git config --global user.name "test"
+git config --global user.email "test@live.com"
 
 * 生成ssh-key
 ~~~
-ssh-keygen -t rsa -C "2504882007@qq.com"
-~~~
+ssh-keygen -t rsa -C "test@live.com"
+~
 
 * 忽略文件
 .gitignore
