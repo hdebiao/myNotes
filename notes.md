@@ -197,6 +197,11 @@ sudo docker run --detach --hostname mygitlab.com --env GITLAB_OMNIBUS_CONFIG="ex
 [java8官方文档](https://docs.oracle.com/javase/8/docs/)
 * 安装java
 
+## windows10安装
+~~~
+CLASSPATH=.;C:\Program Files\Java\jdk1.8.0_171\lib\dt.jar;C:\Program Files\Java\jdk1.8.0_171\lib\tools.jar
+PATH=C:\Program Files\Java\jdk1.8.0_171\bin;C:\Program Files\Java\jdk1.8.0_171\jre\bin
+~~~
 ## 语法
 * 多态中的类型转换
 * 抽象类
