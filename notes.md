@@ -242,4 +242,13 @@ ssh-keygen -t rsa -C "test@live.com"
 * 手机抓包 
 
 # 杂项
+## 工具
+### vs code 
+* 关闭自动更新
+
+* 扩展
+
+### phpstorm
+### idea
+
 ## markdown简历
