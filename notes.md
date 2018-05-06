@@ -226,7 +226,7 @@ git config --global user.email "test@live.com"
 * 生成ssh-key
 ~~~
 ssh-keygen -t rsa -C "test@live.com"
-~
+~~~
 
 * 忽略文件
 .gitignore
