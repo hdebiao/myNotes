@@ -133,6 +133,9 @@ $cfg['Servers'][$i]['password'] = '111';
 ## 重写规则
 ## 负载均衡
 
+
+## 图片裁剪
+
 # virtualBox
 ## Ubuntu server 挂载文件夹
 ~~~
@@ -207,10 +210,6 @@ PATH=C:\Program Files\Java\jdk1.8.0_171\bin;C:\Program Files\Java\jdk1.8.0_171\j
 * 抽象类
 ![抽象](./images/Java1.png)
 
-
-
-
-
 # go 
 
 ## go安装
@@ -237,6 +236,11 @@ ssh-keygen -t rsa -C "test@live.com"
 .gitignore
 
 
+# http协议
+
+# TCP/IP协议
+
+
 # 各种软件
 ## fiddler
 * 手机抓包 
@@ -246,7 +250,11 @@ ssh-keygen -t rsa -C "test@live.com"
 ### vs code 
 * 关闭自动更新
 
-* 扩展
+####  扩展
+
+#### 快捷键
+
+#### 使用技巧
 
 ### phpstorm
 ### idea
